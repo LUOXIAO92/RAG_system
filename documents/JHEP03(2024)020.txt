@@ -1,0 +1,15 @@
+Title: Entanglement and Rényi entropies of (1+1)-dimensional O(3) nonlinear sigma model with tensor renormalization group
+
+Autors: Xiao Luo(Tsukuba U., Inst. Appl. Phys.), Yoshinobu Kuramashi(Tsukuba U., CCS)
+
+Date: Aug 5, 2023
+
+Published in: JHEP 03 (2024) 020
+
+Published: Mar 4, 2024
+
+e-Print: 2308.02798 [hep-th]
+
+DOI: 10.1007/JHEP03(2024)020
+
+Abstract: We investigate the entanglement and Rényi entropies for the (1+1)-dimensional O(3) nonlinear sigma model using the tensor renormalization group method. The central charge is determined from the asymptotic scaling properties of both entropies. We also examine the consistency between the entanglement entropy and the nth-order Rényi entropy with n\rightarrow 1.

@@ -1,0 +1,19 @@
+Title: Tensor renormalization group study of (1+1)-dimensional O(3) nonlinear sigma model with and without finite chemical potential
+
+Authors: Xiao Luo(Tsukuba U., GSPAS), Yoshinobu Kuramashi(Tsukuba U., CCS)
+
+Date: Dec 3, 2024
+
+Published in: PoS LATTICE2024 (2025) 377
+
+Contribution to: Lattice 2024
+
+Published: Dec 5, 2024
+
+e-Print: 2412.02995 [hep-lat]
+
+DOI: 10.22323/1.466.0377
+
+Report number: UTCCS-P-159, UTHEP-793
+
+Abstract: We study (1+1)-dimensional O(3) nonlinear sigma model using the tensor renormalization group method with the infinite limit of the bond dimension D_{\rm cut}\rightarrow \infty. At the vanishing chemical potential \mu=0, we investigate the von Neumann and Rényi types of entanglement entropies. The central charge is determined to be c=1.97(9) by using the asymptotic scaling properties of the entropies. We also examine the consistency between two entropies. In the finite density region with \mu\ne 0, where this model suffers from the sign problem in the standard Monte Carlo approach, we investigate the properties of the quantum phase transition. We determine the transition point \mu_{\rm c} and the critical exponent of the correlation length \nu from the \mu dependence of the number density in the thermodynamic limit. The dynamical critical exponent z is also extracted from the scaling behavior of the temporal correlation length as a function of \mu. This is the first successful calculation of the dynamical critical exponent with the TRG method.

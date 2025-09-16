@@ -1,0 +1,17 @@
+Title: Critical endpoints of three-dimensional finite density SU(3) spin model with tensor renormalization group
+
+Authors: Xiao Luo(Tsukuba U. (main)), Yoshinobu Kuramashi(Tsukuba U., CCS)
+
+Date: Mar 7, 2025
+
+Published in: JHEP 07 (2025) 036
+
+Published: Jul 2, 2025
+
+e-Print: 2503.05144 [hep-lat]
+
+DOI: 10.1007/JHEP07(2025)036
+
+Report number: UTHEP-796, UTCCS-P-161
+
+Abstract: We investigate the phase diagram of the three-dimensional SU(3) spin model with finite chemical potential, which is an effective Polyakov loop model for finite density QCD, using the tensor renormalization group method. We successfully determine the location of the critical endpoints being free from the complex action problem in the standard Monte Carlo approach. The critical values of the parameters show the consistency with previous ones obtained by other analytic and numerical methods.

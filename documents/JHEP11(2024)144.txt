@@ -1,0 +1,15 @@
+Title: Quantum phase transition of (1+1)-dimensional O(3) nonlinear sigma model at finite density with tensor renormalization group
+
+Authors: Xiao Luo(Tsukuba U., GSPAS), Yoshinobu Kuramashi(Tsukuba U., CCS)
+
+Date: Jun 13, 2024
+
+Published in: JHEP 11 (2024) 144
+
+Published: Nov 26, 2024
+
+e-Print: 2406.08865 [hep-lat]
+
+DOI: 10.1007/JHEP11(2024)144
+
+Abstract: We study the quantum phase transition of the (1+1)-dimensional O(3) nonlinear sigma model at finite density using the tensor renormalization group method. This model suffers from the sign problem, which has prevented us from investigating the properties of the phase transition. We investigate the properties of the phase transition by changing the chemical potential \mu at a fixed coupling of \beta. We determine the transition point \mu_{\rm c} and the critical exponent \nu from the \mu dependence of the number density in the thermodynamic limit. The dynamical critical exponent z is also extracted from the scaling behavior of the temporal correlation length as a function of \mu.

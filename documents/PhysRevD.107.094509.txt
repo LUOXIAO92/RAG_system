@@ -1,0 +1,17 @@
+Title: Tensor renormalization group approach to (1+1)-dimensional SU(2) principal chiral model at finite density
+
+Authors: Xiao Luo(Tsukuba U., GSPAS), Yoshinobu Kuramashi(Tsukuba U., CCS)
+
+Date: Aug 30, 2022
+
+Published in: Phys.Rev.D 107 (2023) 9, 094509
+
+Published: May 1, 2023
+
+e-Print: 2208.13991 [hep-lat]
+
+DOI: 10.1103/PhysRevD.107.094509 (publication)
+
+Report number: UTHEP-772, UTCCS-P-146
+
+Abstract: We apply the tensor renormalization group method to the (1+1)-dimensional SU(2) principal chiral model at finite chemical potential with the use of the Gauss-Legendre quadrature to discretize the SU(2) Lie group. The internal energy at vanishing chemical potential \mu=0 shows good consistency with the prediction of the strong and weak coupling expansions. This indicates an effectiveness of the Gauss-Legendre quadrature for the partitioning of the SU(2) Lie group. In the finite density region with \mu\ne 0 at the strong coupling we observe the Silver-Blaze phenomenon for the number density.
